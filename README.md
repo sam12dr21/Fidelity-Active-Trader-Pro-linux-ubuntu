@@ -33,3 +33,12 @@ sudo apt install --install-recommends winehq-stable wine64 winetricks
 6.) installation took about 15min and then after it shows installed, I had to press ctrl+c to end the terminal output.
 
 7.) there will be an icon on the desktop for Fidelity. Enjoy!!
+
+
+
+
+
+![](https://github.com/sam12dr21/Fidelity-Active-Trader-Pro-linux-ubuntu/blob/main/2025-06-14_08-41-36.jpg)
+
+
+![](https://github.com/sam12dr21/Fidelity-Active-Trader-Pro-linux-ubuntu/blob/main/2025-06-14_08-48-03.jpg)
